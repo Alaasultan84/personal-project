@@ -1,5 +1,5 @@
-# Basic Project
-## Basic Project Structure
+# Personal Project
+## Personal Project Structure
 
 *Default Structure for A Basic Project*
 
